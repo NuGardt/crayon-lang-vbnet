@@ -1,7 +1,7 @@
 crayon-lang-vbnet
 =================
 
-Crayon Syntax Highlighter: Visual Basic .Net
+Visual Basic .Net Syntax for Crayon Syntax Highligher
 
 Installation
 ------------
