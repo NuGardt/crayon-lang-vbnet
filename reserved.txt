@@ -22,9 +22,11 @@ MyBase
 Option
 TypeOf
 Select
+False
 Erase
 ReDim
 Const
+True
 Exit
 Loop
 Like

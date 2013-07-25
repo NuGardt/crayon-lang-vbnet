@@ -1,5 +1,6 @@
 ParamArray
 Structure
+Boolean
 Decimal
 Nothing
 CShort
